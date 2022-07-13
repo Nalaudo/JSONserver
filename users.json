@@ -1,0 +1,14 @@
+[
+  {
+    nombre: "Admin",
+    edad: 18
+  }
+  {
+    nombre: "Nicolás",
+    edad: 18
+  }
+  {
+    nombre: "Florencia",
+    edad: 23
+  }
+]
